@@ -1,0 +1,24 @@
+
+.contentHeader {
+    width: 100vw;
+
+    .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 8rem;
+    
+        img {
+            width: 10rem;
+            height: 10rem;
+        }
+        .navBar {
+            a {
+                color: rgb(213, 220, 233);
+                margin-left: 1.5rem;
+                text-decoration: none;
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
